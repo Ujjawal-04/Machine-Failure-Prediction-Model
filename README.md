@@ -1,1 +1,1 @@
-To run the file :- open command promptand run command streamlit run main.py
+To run the file :- Download the files and after that open command prompt and run command streamlit run main.py
